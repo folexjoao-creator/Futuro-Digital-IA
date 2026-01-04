@@ -1,0 +1,8 @@
+{
+  "name": "SIGA-MZ: Portal Académico de Moçambique",
+  "description": "Um Sistema Integrado de Gestão Académica (SIGAA) modernizado e adaptado para o contexto de Moçambique, integrando gestão de cursos, pautas, inscrições e um assistente inteligente via Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
